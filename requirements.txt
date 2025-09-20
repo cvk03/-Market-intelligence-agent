@@ -1,0 +1,11 @@
+google-generativeai
+semantic-kernel
+faiss-cpu
+sentence-transformers
+transformers
+pandas==2.1.4
+numpy
+python-dotenv==1.0.0
+streamlit==1.28.2
+plotly==5.18.0
+asyncio==3.4.3

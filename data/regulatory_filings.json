@@ -1,0 +1,32 @@
+[
+  {
+    "filing_id": "REG001",
+    "state": "CA",
+    "filing_date": "2025-01-05",
+    "effective_date": "2025-02-01",
+    "filing_type": "Rate Change",
+    "description": "Auto insurance rate adjustment - average increase of 3.2%",
+    "impact": "Rate increases for comprehensive coverage in high-risk areas",
+    "provider": "StateFarm"
+  },
+  {
+    "filing_id": "REG002",
+    "state": "TX",
+    "filing_date": "2025-01-07",
+    "effective_date": "2025-03-01",
+    "filing_type": "New Product",
+    "description": "Introduction of usage-based insurance program",
+    "impact": "Potential rate reductions for low-mileage drivers",
+    "provider": "Progressive"
+  },
+  {
+    "filing_id": "REG003",
+    "state": "FL",
+    "filing_date": "2025-01-08",
+    "effective_date": "2025-02-15",
+    "filing_type": "Regulatory Change",
+    "description": "Updated hurricane coverage requirements",
+    "impact": "Mandatory coverage changes for coastal properties",
+    "provider": "Multiple"
+  }
+]

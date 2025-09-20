@@ -1,0 +1,9 @@
+Market Intelligence Agent Setup Summary
+========================================
+Data Generated:
+- Rate records: 500
+- Claims records: 200
+- Regulatory filings: 3
+- Vector store documents: 493
+
+Agent ready for use!

@@ -1,0 +1,201 @@
+claim_id,provider,state,insurance_type,claim_amount,claim_type,claim_date,settlement_days,fraud_indicator
+CLM186405,Progressive,CA,home,14073.09,Medical,2024-02-21,33,False
+CLM651187,Liberty Mutual,CA,home,10795.91,Medical,2025-05-17,23,False
+CLM955508,StateFarm,PA,auto,12617.23,Collision,2024-02-19,10,False
+CLM966440,Liberty Mutual,PA,home,23725.46,Collision,2024-03-19,33,False
+CLM201233,Geico,MI,auto,20159.85,Weather,2024-12-23,47,False
+CLM250226,Nationwide,NC,auto,7014.49,Weather,2023-12-24,24,False
+CLM187103,USAA,TX,home,5523.0,Medical,2024-04-09,37,False
+CLM989495,USAA,NC,health,7327.97,Liability,2024-02-04,41,False
+CLM289365,Progressive,FL,auto,13561.83,Medical,2024-11-16,52,False
+CLM379702,USAA,IL,home,17271.75,Medical,2024-02-07,8,False
+CLM368011,Travelers,OH,health,3577.27,Collision,2024-02-21,55,False
+CLM118833,Allstate,TX,home,13468.32,Medical,2024-02-06,57,False
+CLM774590,Liberty Mutual,NY,auto,3610.59,Theft,2024-07-09,26,False
+CLM346455,USAA,CA,life,6131.19,Collision,2025-08-01,33,False
+CLM130098,StateFarm,CA,home,12402.71,Theft,2023-09-29,47,False
+CLM671921,Allstate,CA,life,1984.58,Collision,2025-09-02,41,False
+CLM716750,Nationwide,OH,auto,6643.91,Theft,2023-12-31,52,False
+CLM197070,AmFam,NC,home,12822.47,Liability,2025-07-25,52,False
+CLM642964,USAA,MI,health,9785.27,Medical,2024-11-24,29,False
+CLM339547,Geico,GA,health,6895.58,Weather,2024-04-20,9,False
+CLM723775,Liberty Mutual,TX,home,18483.66,Weather,2025-02-18,60,False
+CLM416515,Progressive,GA,auto,14668.2,Collision,2024-02-01,42,False
+CLM508483,Geico,CA,life,8823.66,Collision,2023-09-22,57,False
+CLM461994,Travelers,NC,life,11260.75,Weather,2024-09-28,55,False
+CLM971209,Allstate,FL,life,7024.75,Collision,2024-04-29,53,False
+CLM352436,Travelers,NC,home,15708.67,Collision,2024-12-25,20,False
+CLM165885,Farmers,MI,life,4183.04,Weather,2025-03-01,27,False
+CLM641601,StateFarm,FL,auto,14608.51,Medical,2023-11-21,28,False
+CLM984380,StateFarm,GA,health,9853.62,Liability,2024-02-25,15,False
+CLM164672,Farmers,PA,life,11623.16,Theft,2024-10-23,44,False
+CLM528250,AmFam,TX,life,1140.56,Liability,2024-05-09,9,False
+CLM638514,Geico,TX,home,5302.59,Collision,2024-01-27,29,False
+CLM959700,USAA,GA,life,14467.16,Medical,2024-09-25,16,False
+CLM988213,Nationwide,GA,life,21964.75,Medical,2025-07-22,40,False
+CLM160994,Nationwide,CA,home,1057.34,Theft,2024-08-12,53,False
+CLM806449,Progressive,IL,health,11838.42,Theft,2024-12-03,26,False
+CLM451564,AmFam,NY,life,22757.89,Medical,2025-04-03,59,False
+CLM164844,AmFam,FL,auto,13946.85,Theft,2024-02-26,48,False
+CLM974662,Geico,MI,home,4775.62,Theft,2025-06-03,43,False
+CLM966605,Progressive,GA,home,8358.39,Liability,2025-05-20,29,False
+CLM884676,Liberty Mutual,GA,home,7302.86,Weather,2024-05-26,32,False
+CLM213506,Travelers,MI,health,4925.25,Medical,2024-10-27,38,False
+CLM305799,Progressive,FL,health,20420.92,Medical,2025-01-21,30,False
+CLM239610,Allstate,MI,home,6841.86,Liability,2024-12-03,39,False
+CLM523237,Geico,NY,home,8732.11,Collision,2024-01-10,57,False
+CLM939794,Farmers,IL,life,11040.67,Weather,2024-04-15,23,False
+CLM490168,StateFarm,PA,health,18301.7,Theft,2025-09-04,38,False
+CLM718530,Nationwide,FL,health,9598.69,Weather,2023-12-21,30,False
+CLM502326,Progressive,CA,life,5032.21,Weather,2025-01-28,35,False
+CLM399077,Travelers,CA,home,3868.77,Liability,2023-10-28,30,False
+CLM465769,Travelers,OH,auto,7490.66,Collision,2024-11-17,32,False
+CLM807192,Travelers,FL,home,18279.62,Collision,2025-04-28,52,False
+CLM323877,Progressive,IL,home,8403.93,Theft,2024-03-29,59,False
+CLM398624,Farmers,OH,auto,24076.83,Liability,2024-10-23,60,False
+CLM324454,AmFam,NC,life,18406.19,Medical,2024-01-15,33,False
+CLM221007,StateFarm,MI,home,18561.62,Theft,2024-05-22,42,False
+CLM913177,Nationwide,MI,auto,4955.79,Weather,2025-08-24,44,False
+CLM815822,USAA,PA,health,15160.32,Weather,2024-09-05,18,False
+CLM416699,Farmers,OH,life,4752.18,Liability,2024-10-27,43,False
+CLM914755,AmFam,NC,auto,19176.74,Weather,2025-09-17,57,False
+CLM245408,Farmers,PA,home,19035.51,Weather,2024-02-12,49,False
+CLM135787,Geico,OH,auto,23070.05,Weather,2024-01-03,20,False
+CLM448689,Liberty Mutual,CA,home,20372.81,Liability,2024-02-03,47,False
+CLM814914,USAA,OH,home,22441.35,Weather,2024-02-06,28,False
+CLM937356,Allstate,IL,auto,20438.57,Theft,2025-03-02,48,False
+CLM890965,Nationwide,NC,life,4722.39,Theft,2025-04-02,60,False
+CLM976737,USAA,GA,home,22492.72,Liability,2023-10-27,10,False
+CLM175026,Allstate,OH,auto,14621.65,Weather,2024-07-09,5,False
+CLM394628,Nationwide,FL,life,24817.1,Collision,2024-12-31,19,False
+CLM615896,StateFarm,IL,health,23486.07,Liability,2025-04-17,56,False
+CLM660548,Progressive,TX,auto,17716.4,Theft,2024-07-06,25,False
+CLM160365,Liberty Mutual,MI,health,16379.03,Collision,2025-09-08,5,False
+CLM737083,Liberty Mutual,IL,home,18329.61,Theft,2025-03-11,45,False
+CLM325039,Travelers,NC,life,4232.56,Collision,2024-03-30,56,False
+CLM453808,Allstate,GA,health,7200.84,Liability,2025-03-07,29,False
+CLM278387,Allstate,NC,health,2872.34,Theft,2024-06-01,36,False
+CLM297509,Travelers,MI,life,13995.17,Theft,2024-10-19,32,False
+CLM610563,Nationwide,NC,auto,14207.26,Collision,2024-08-09,49,False
+CLM719945,Liberty Mutual,NY,auto,20202.49,Liability,2025-01-31,11,False
+CLM689589,Nationwide,FL,auto,13284.14,Collision,2025-07-29,9,False
+CLM820101,Travelers,FL,life,9668.14,Weather,2023-10-30,23,False
+CLM222962,USAA,CA,auto,11159.68,Collision,2025-06-17,58,False
+CLM902504,Geico,IL,health,6197.26,Medical,2025-08-29,5,False
+CLM515338,Travelers,MI,home,15563.08,Collision,2023-12-01,24,False
+CLM912690,Geico,OH,life,17159.73,Liability,2024-12-08,49,False
+CLM655667,Allstate,FL,auto,17687.73,Theft,2024-01-22,28,False
+CLM802851,Progressive,TX,auto,11061.72,Collision,2023-10-26,60,False
+CLM424213,Geico,MI,life,18170.92,Theft,2024-01-11,6,False
+CLM521857,Nationwide,MI,health,8142.33,Medical,2024-10-18,16,False
+CLM277097,Nationwide,GA,life,12796.44,Medical,2024-09-28,14,False
+CLM216548,Nationwide,CA,auto,9833.77,Collision,2023-10-06,27,False
+CLM105839,Geico,CA,life,18403.65,Liability,2025-08-26,34,False
+CLM611869,Nationwide,MI,home,4978.63,Medical,2024-01-13,11,False
+CLM443465,Travelers,FL,home,605.31,Medical,2024-08-14,25,False
+CLM149019,USAA,IL,auto,3909.06,Weather,2024-07-21,6,False
+CLM789026,Farmers,MI,home,9458.07,Collision,2023-10-06,22,False
+CLM523526,Liberty Mutual,OH,health,16746.42,Medical,2023-09-22,12,False
+CLM419871,Allstate,PA,auto,7333.95,Collision,2025-05-24,37,False
+CLM856242,Allstate,GA,health,16854.16,Weather,2025-08-08,6,False
+CLM745301,Travelers,FL,auto,11838.11,Theft,2024-05-14,17,False
+CLM673456,AmFam,IL,auto,15525.23,Collision,2025-06-28,49,False
+CLM359056,Farmers,NC,health,14034.86,Medical,2024-09-14,8,False
+CLM118592,Progressive,TX,auto,4873.54,Theft,2025-05-28,17,False
+CLM473082,Nationwide,MI,life,3473.4,Liability,2025-04-19,48,False
+CLM438195,StateFarm,OH,health,3817.24,Theft,2024-03-14,24,False
+CLM874258,StateFarm,NC,life,18367.99,Collision,2025-08-31,10,False
+CLM245122,Geico,TX,life,9889.39,Liability,2024-08-12,31,False
+CLM462672,AmFam,OH,life,4459.68,Collision,2024-09-09,51,False
+CLM814748,AmFam,CA,auto,1348.82,Weather,2025-01-29,48,False
+CLM918216,Farmers,NY,health,2931.35,Medical,2024-02-05,47,False
+CLM828916,Nationwide,IL,home,22847.02,Medical,2024-05-03,52,False
+CLM553220,Geico,FL,health,15844.79,Theft,2024-09-25,42,False
+CLM513167,Geico,NC,auto,16480.64,Medical,2023-10-21,29,False
+CLM787360,Nationwide,OH,health,18690.49,Theft,2024-06-05,25,False
+CLM555847,StateFarm,IL,life,10333.12,Medical,2025-06-16,36,False
+CLM479796,AmFam,OH,auto,18653.77,Weather,2025-04-10,39,False
+CLM649228,Farmers,NC,health,14108.73,Weather,2023-11-06,36,False
+CLM773314,StateFarm,TX,life,519.18,Theft,2024-11-11,37,False
+CLM320550,Nationwide,TX,life,13607.23,Weather,2025-04-21,38,False
+CLM153156,AmFam,NC,health,2174.2,Weather,2024-01-04,33,False
+CLM200889,Allstate,IL,auto,16517.32,Theft,2024-05-08,55,False
+CLM629901,USAA,TX,health,15001.82,Liability,2025-09-13,57,False
+CLM635685,Nationwide,CA,home,5943.26,Collision,2024-01-30,17,False
+CLM779721,Liberty Mutual,IL,health,24929.28,Collision,2023-11-27,38,False
+CLM739733,AmFam,MI,health,1917.39,Medical,2024-09-01,56,False
+CLM702252,Liberty Mutual,NY,auto,15902.69,Weather,2025-06-03,29,False
+CLM332982,AmFam,NC,health,23397.49,Liability,2024-01-11,41,False
+CLM920947,Nationwide,OH,health,18842.98,Liability,2023-11-30,18,False
+CLM622607,Farmers,CA,life,8087.19,Medical,2024-08-29,51,False
+CLM474423,Liberty Mutual,NC,home,5973.8,Liability,2025-08-01,60,False
+CLM438904,Liberty Mutual,OH,life,24678.96,Collision,2025-04-03,58,False
+CLM959840,Allstate,NC,home,9689.38,Collision,2025-01-22,57,False
+CLM631929,StateFarm,CA,home,5106.23,Weather,2024-11-12,9,False
+CLM508161,Allstate,NC,life,12694.98,Medical,2024-07-19,23,True
+CLM369638,AmFam,NC,home,1914.32,Collision,2024-03-25,56,False
+CLM619618,Progressive,OH,health,24637.77,Theft,2025-08-26,28,False
+CLM904555,Nationwide,CA,life,10660.08,Liability,2023-11-06,47,False
+CLM610120,USAA,GA,auto,15959.52,Liability,2025-04-30,9,False
+CLM283799,Geico,MI,auto,21234.98,Medical,2024-04-26,12,False
+CLM425320,AmFam,NC,health,19555.99,Medical,2025-05-21,10,False
+CLM864599,Travelers,CA,auto,16796.38,Weather,2023-09-23,12,False
+CLM594344,Farmers,PA,auto,6902.1,Weather,2024-04-20,37,False
+CLM763058,Liberty Mutual,IL,health,12729.88,Liability,2024-02-04,25,False
+CLM500058,Allstate,NY,auto,14904.23,Liability,2024-01-23,15,False
+CLM653452,USAA,TX,health,3182.14,Theft,2025-04-06,18,False
+CLM210104,Liberty Mutual,MI,home,15226.75,Medical,2025-04-29,41,False
+CLM117942,Travelers,PA,auto,17391.82,Medical,2024-01-09,5,False
+CLM390909,Farmers,NY,life,14798.47,Weather,2024-06-25,31,False
+CLM987491,Travelers,TX,home,18669.58,Medical,2025-02-24,23,False
+CLM907304,AmFam,NC,home,9330.83,Collision,2025-04-13,54,False
+CLM640697,Nationwide,FL,life,5681.03,Liability,2025-07-11,46,False
+CLM580601,Nationwide,NY,life,10933.26,Theft,2025-08-17,20,False
+CLM205324,Geico,MI,life,17617.5,Liability,2024-08-09,37,False
+CLM399928,Travelers,NC,health,4560.13,Theft,2024-06-30,13,False
+CLM181510,AmFam,FL,life,10528.42,Weather,2025-05-28,43,False
+CLM160694,AmFam,OH,health,4751.98,Theft,2024-02-16,60,False
+CLM471824,Geico,OH,health,5173.2,Liability,2024-03-21,50,False
+CLM626365,Nationwide,FL,home,6000.08,Theft,2024-05-10,50,False
+CLM110095,Allstate,OH,home,21917.62,Liability,2024-01-20,9,False
+CLM377453,Geico,FL,life,5773.46,Weather,2024-10-08,45,False
+CLM764741,StateFarm,MI,life,13742.98,Weather,2025-02-22,26,False
+CLM708584,StateFarm,CA,auto,15432.6,Theft,2024-09-20,38,False
+CLM539197,Nationwide,GA,auto,19523.35,Collision,2024-02-06,39,False
+CLM995584,Progressive,FL,health,24335.83,Theft,2024-11-13,14,False
+CLM444615,Progressive,CA,health,5087.97,Weather,2024-08-13,6,False
+CLM887402,Progressive,PA,home,4145.76,Medical,2024-05-18,32,False
+CLM710691,Nationwide,TX,home,9066.68,Theft,2024-02-27,58,False
+CLM341492,Travelers,GA,life,22636.37,Medical,2025-06-17,21,False
+CLM395433,StateFarm,MI,auto,11451.89,Theft,2023-12-11,38,False
+CLM435651,Travelers,MI,health,19779.21,Medical,2025-04-02,49,False
+CLM203711,StateFarm,FL,home,22537.23,Theft,2024-03-27,5,False
+CLM502868,Liberty Mutual,NC,life,10778.82,Collision,2025-06-01,22,False
+CLM705893,Geico,PA,health,696.31,Medical,2025-05-10,34,False
+CLM403278,Nationwide,PA,auto,23552.02,Liability,2025-01-22,57,False
+CLM590484,Nationwide,FL,home,14132.25,Collision,2025-04-28,36,False
+CLM462761,Farmers,PA,home,19827.45,Weather,2024-04-07,37,False
+CLM310815,Progressive,PA,home,6187.09,Medical,2024-11-14,47,False
+CLM887648,AmFam,MI,auto,15846.96,Weather,2025-06-12,36,False
+CLM104205,USAA,NY,life,19132.51,Theft,2024-04-25,14,False
+CLM187461,Geico,NC,home,10312.18,Liability,2025-03-06,33,False
+CLM154154,AmFam,MI,life,8727.5,Medical,2024-06-10,33,False
+CLM257457,Liberty Mutual,NY,home,11625.84,Medical,2025-06-19,53,False
+CLM923449,Nationwide,NC,home,24474.23,Collision,2025-01-23,25,False
+CLM195230,StateFarm,NY,home,18174.94,Liability,2024-08-07,22,False
+CLM620878,Travelers,TX,health,13078.04,Liability,2025-03-25,45,False
+CLM359382,Farmers,NC,life,11319.79,Weather,2024-09-11,14,False
+CLM729544,Progressive,IL,auto,15280.71,Liability,2025-07-04,42,False
+CLM654573,USAA,NY,home,10933.76,Theft,2024-09-03,26,False
+CLM902899,Progressive,FL,health,3325.29,Weather,2024-12-17,38,False
+CLM784445,USAA,TX,health,21939.98,Weather,2024-08-23,34,False
+CLM926889,Travelers,GA,home,13984.21,Collision,2025-06-14,55,False
+CLM106426,Progressive,CA,home,548.19,Collision,2023-10-03,18,False
+CLM360566,Progressive,GA,home,15806.73,Medical,2024-09-24,22,False
+CLM599341,Nationwide,FL,home,15455.52,Theft,2025-01-18,39,False
+CLM743263,Liberty Mutual,GA,life,22387.87,Weather,2025-03-15,53,False
+CLM183851,Allstate,IL,life,1313.53,Theft,2023-10-07,7,False
+CLM932656,USAA,NC,auto,21324.18,Theft,2024-10-16,44,False
+CLM828850,USAA,GA,auto,1011.16,Theft,2025-03-13,43,False
+CLM516074,Allstate,GA,life,4800.63,Collision,2025-02-09,5,False
+CLM258163,Travelers,PA,auto,23705.7,Liability,2024-12-07,18,False
