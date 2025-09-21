@@ -1,6 +1,6 @@
 # Market Intelligence & Pricing Agent – Hackathon Approach Document
 
-**Prepared by Chaitrali Kulkarni (Employee ID: EMP02372)**
+**Prepared by cvk03**
 
 ---
 
@@ -84,4 +84,4 @@ The Market Intelligence & Pricing Agent is an AI-powered virtual analyst designe
 ---
 
 ## Contact
-For questions or support, contact Chaitrali Kulkarni
+For questions or support, contact cvk03
